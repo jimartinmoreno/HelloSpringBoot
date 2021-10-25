@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class HelloWorld {
 	public void sayHello() {
-		System.out.println(HelloWorld.class + " - Hello World cambio desde Github!!!!!");
+		System.out.println(HelloWorld.class + " - Hello World cambio desde Github 2!!!!!");
 	}
 
 	public static void main(String[] args) {
