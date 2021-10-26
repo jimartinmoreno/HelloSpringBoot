@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.services;
 
 /**
  * Created by jt on 10/21/15.
